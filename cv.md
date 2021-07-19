@@ -10,5 +10,5 @@
 
 **E-mail:** *rimorevs@gmail.com*
 
-**Personal qualities:**
-*- analytical mindset, - easy learnability,  - perseverance, - communication skills*
+**Personal qualities:** 
+*+ analytical mindset,  + easy learnability,  + perseverance, + communication skills*
